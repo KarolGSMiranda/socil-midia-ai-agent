@@ -3,9 +3,9 @@ Agente de IA para planejamento de redes sociais, usando LLM Gemini, RAG com FAIS
 
 Este projeto implementa um agente de IA capaz de criar cronogramas de postagens para redes sociais de forma automatizada. Ele combina:
 - LLM Gemini 2.5 para geração de texto criativa.
--RAG (Retrieval-Augmented Generation) com FAISS para consultas a documentos PDF com normas e diretrizes de redes sociais.
--LangGraph para modelar o workflow de decisões (gerar cronograma, ajustar plano, pedir informações, sugerir ideias, validar plano).
--Pydantic para garantir saída estruturada em JSON dos cronogramas.
+- RAG (Retrieval-Augmented Generation) com FAISS para consultas a documentos PDF com normas e diretrizes de redes sociais.
+- LangGraph para modelar o workflow de decisões (gerar cronograma, ajustar plano, pedir informações, sugerir ideias, validar plano).
+- Pydantic para garantir saída estruturada em JSON dos cronogramas.
 
 
 Funcionalidades:
